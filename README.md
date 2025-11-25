@@ -1,7 +1,6 @@
 <h1 align="center">Julien Das Dores</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julienddd" alt="julienddd" /></a> </p>
 
-- 📫 Mail : **jdd78800@gmail.com**
 
 <p align="left">
 </p>
